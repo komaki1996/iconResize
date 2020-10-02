@@ -1,6 +1,7 @@
 # iconResize
 ### iOS開発者向けツールです。
 Icon resizing tool for iOS developers.
+
 アプリアイコン画像（1024px）を１つ作るだけで残りは　iconResize.pyでリサイズし出力してくれます。
 
 ### ツールの内容
