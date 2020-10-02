@@ -13,7 +13,7 @@ Icon resizing tool for iOS developers.
 ### 前提条件
 ・pythonプログラム実行可能な環境であること。
 
-・Python画像処理ライブラリ『Pillow』が利用可能な環境であること/n
+・Python画像処理ライブラリ『Pillow』が利用可能な環境であること
 
 ### 使い方
 
